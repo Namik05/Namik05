@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/__abeeeed__/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/__abeeeed__/"><img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:elharrougui117@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
